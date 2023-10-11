@@ -1,2 +1,2 @@
 # admintheme
-admintheme
+Template Admin
